@@ -51,8 +51,7 @@
     gap: 1.2em;
   }
   
-  .search-container input,
-  .search-container button {
+  .search-container input, .search-container button {
     /* Search Input and Button */
     font-size: 1em;
     padding: 10px;
@@ -97,8 +96,7 @@
     padding: 0.6em 0;
   }
   
-  .details h1,
-  .details h2 {
+  .details h1, .details h2 {
     /* Details Header Text */
     font-size: 1.2em;
     font-weight: 600;
