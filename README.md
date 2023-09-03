@@ -5,7 +5,7 @@
 </i></h3></h3>
 <br>
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmIJI5Ejxm-IFBP2XeZqTVhEPIqTogEUGBRc968Swap5NZHQNBCUXSNiOhId0JeSAR793gOqBXB8LLy79q1zKfvv_XUT8HCfYReLWdTeKp40jNv6bP70C_7zxJgL0sw6ngvD-4tWUcccJsneKGlr9enc9WLGW1rajzGF4YxOrOAofZkn3GlLz87yfCmmPB/s16000/Screenshot%20(227).png' width='100%'>
-<i align='center'>An sample refrence screenshot.</i>
+<p align='center'><i>An sample refrence screenshot.</i></p>
 
 <h3>Links:</h3>
 
