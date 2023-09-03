@@ -29,3 +29,9 @@ function clearSearchInput() {
     userInput.value = "";
     cancelBtn.style.display = "none";
   }
+
+
+  function fetchRecipes() {
+    let userInp = userInput.value;
+    if (userInp.length == 0) {
+      result.innerHTML = 
