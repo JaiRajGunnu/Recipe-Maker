@@ -157,19 +157,6 @@ margin: 25px 0;
   
 
 
- @media only screen and (min-width: 601px) and (max-width: 900px) {
- .recp-title {
-   font-size: 30px;
-  }
-    
-    #cancel-btn {
-     right: 225px !important;
-  }
-  .recp-img {
-    width: 150px;
-  }
-}
-
   @media only screen and (min-width: 901px) {
   .recipe-card {
   padding: 0 25px;
