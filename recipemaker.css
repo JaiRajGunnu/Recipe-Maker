@@ -181,7 +181,6 @@
   
   /* List Styles */
   ul {
-    /* List Text */
     font-size: 1em;
     position: relative;
     gap: 0.8em 1.1em;
@@ -191,7 +190,6 @@
   
   /* H3 Styles */
   h3 {
-    /* H3 Header Text */
     margin-top: 1.8em;
     color: #202030;
   }
@@ -206,7 +204,6 @@
   
   /* Additional Styles */
   #result {
-    /* Result Section */
     margin-top: 20px;
   }
   
