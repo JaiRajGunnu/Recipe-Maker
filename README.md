@@ -10,8 +10,8 @@
 <br>
 <h3>Links:</h3>
 
- - **[(Social)](#connect-with-me)**.
- - **[(Social)](#connect-with-me)**.
+ - **[(View Figma UI/UX Prototype)](https://www.figma.com/proto/50Wn9i5l0cD0oC63e0Sssl/Sadguru-Sai---Mobile?type=design&t=iw5h21hZsQYsxM6h-1&scaling=scale-down&page-id=0%3A1&node-id=37-247&mode=design)**.
+ - **[(Check Live Webpage)](https://sadgurusai-tel.blogspot.com/)**.
 
  <br>
 - ⚡ It benfits with  **Responsive design** on average.
