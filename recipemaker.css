@@ -196,68 +196,7 @@ margin: 25px 0;
   filter: brightness(1.1) contrast(1.05);
 }
   
-.view-recipe-btn:hover, #go-back-btn:hover {
-  background-color: #2669e6;
-}
 
-.recp-url{
-  font-style:italic;
-  margin:5px 0;
-  }
-  
-.recp-url:hover{
-  text-decoration:underline;
-  opacity:85%;
-  }
-  
-.recp-url a {
-   color:darkblue !important;
-  }
-  
-  @media screen and (max-width: 500px) {
-    .container {
-      font-size: 14px;
-    }
-  }  
-  
-  
-  @media only screen and (max-width: 600px) {
-  .recp-title {
-    font-size: 21px;
-    scale:1.1;
-   }
- .recp-img {
-    width: 100px;
-  }
-   .recipe-card {
-  padding: 10px;
-  scale: 0.93;
-  }
-    
-  #cancel-btn {
-  right: 25px;
-  }
-    
- .search-container i.fa-solid.fa-utensils {
-    display: none;
-  }
-    
-.container {
-    padding: 15px 07px;
-    border-radius:30px;
-    }
-
- .search-container {
-   grid-template-columns: 1fr;
-    }
-
- .search-container input {
-   margin: 10px 0;
- }
- .search-container button {
-  padding: 10px;
-    }
-  }
 
  @media only screen and (min-width: 601px) and (max-width: 900px) {
  .recp-title {
