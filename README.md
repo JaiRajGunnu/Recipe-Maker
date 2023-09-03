@@ -41,3 +41,13 @@
 <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIRfYXLv3e6__9J-4m5gn_EbSTgGrfNdSslQYhnQOxRT_aOYFkDGQEejWTcHS5orptcNzKH6cA1t28YsBgCgQ8dRGbX3nxZKPhwuT6eclNFl3zJOykbmO2-vVlg_HFj9Z9lRgLFdiBOuKnCFzTLXxvg-eY8Y_JShBIIOIMdXrwpYBQsgGs8HaSqv6YUzMn/s1600/icons8-x-50%20(1).png" alt="jairajgunnu" height="28" width="28" />
 </a>
 </div>
+<br>
+<div align="left">
+<h3>Languages and Tools:</h3>
+<img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>
+<img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" alt="css3" width="30" height="30"/>
+<img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Javascript" width="30" height="30"/> 
+<img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/>  
+>  
+</div>
+
