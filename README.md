@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, This is Jai Raj Gunnu</h1>
 <h3 align="center"><i>I created a recipe maker that helps users generate delicious and personalized recipes based on user's preferences with a responsive clean UI, which supports to every device.
 </i></h3></h3>
-<br>
+<br><br>
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmIJI5Ejxm-IFBP2XeZqTVhEPIqTogEUGBRc968Swap5NZHQNBCUXSNiOhId0JeSAR793gOqBXB8LLy79q1zKfvv_XUT8HCfYReLWdTeKp40jNv6bP70C_7zxJgL0sw6ngvD-4tWUcccJsneKGlr9enc9WLGW1rajzGF4YxOrOAofZkn3GlLz87yfCmmPB/s16000/Screenshot%20(227).png' width='100%'>
 <p align='center'>An sample refrence screenshot.</p>
 
@@ -32,6 +32,8 @@
 - 🌐 Have a look at my **[blog](http://epgsk.blogspot.com/)**.
 
 - 📄 Explore the vast range of **[my skills](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)**.
+
+<br>
 <div align="left">
 <h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/jairajgunnu" target="blank">
@@ -53,7 +55,7 @@
 <img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>
 <img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" alt="css3" width="30" height="30"/>
 <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Javascript" width="30" height="30"/> 
-<img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/>  
 <img src="https://img.icons8.com/?size=512&id=21895&format=png" alt="API" width="30" height="30"/>  
+<img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/> 
 </div>
 
