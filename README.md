@@ -10,27 +10,21 @@
 <br>
 <h3>Links:</h3>
 
- 🔻 **[View Figma UI/UX Prototype](https://www.figma.com/proto/50Wn9i5l0cD0oC63e0Sssl/Sadguru-Sai---Mobile?type=design&t=iw5h21hZsQYsxM6h-1&scaling=scale-down&page-id=0%3A1&node-id=37-247&mode=design)**
+   🔻 **[View Figma UI/UX Prototype](https://www.figma.com/proto/50Wn9i5l0cD0oC63e0Sssl/Sadguru-Sai---Mobile?type=design&t=iw5h21hZsQYsxM6h-1&scaling=scale-down&page-id=0%3A1&node-id=37-247&mode=design)**
 
- 🔻 **[Check Live Webpage](https://sadgurusai-tel.blogspot.com/)**
- 
+  🔻 **[Check Live Webpage](https://sadgurusai-tel.blogspot.com/)**
+
  <br>
+<h3>Links:</h3>
 
-- ⚡ It benfits with  **Responsive design** on average.
-
-- 😍 It's appreance is with **Clean UI**.
-
-- 📂 It fetches data with  **API**.
-
-- 🍕 You can use any type of food data API  ' **API**.
-
-- 🕙 It took me duration of  **3-4 days** on average.
-
-- 🌱 I’m currently working on **other projects.**
-
-- 👯 I’m looking to collaborate on **Front-end projects.**
-
--  💬 Please feel free to ask **any questions** you have in mind.
+⚡ It benefits from **Responsive design** on average.
+😍 Its appearance is **Clean UI**.
+📂 It fetches data with **API**.
+🍕 You can use any type of **Food data API**.
+🕙 It takes me a duration of **3-4 days** on average.
+🌱 I'm **currently working** on other projects.
+👯 I'm looking to collaborate on **Front-end projects**.
+💬 Please feel free to **ask any questions** you have in mind.
 
 - 📫 Feel free to reach out to me **[(Social)](#connect-with-me)**.
 
