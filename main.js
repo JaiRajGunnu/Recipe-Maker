@@ -109,3 +109,8 @@ function clearSearchInput() {
         let goBackBtn = document.getElementById("go-back-btn");
         goBackBtn.addEventListener("click", fetchRecipes);
       })
+
+      .catch(() => {
+        result.innerHTML = `<h3>Error occurred while fetching recipe details</h3>`;
+      });
+  }
