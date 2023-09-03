@@ -307,7 +307,7 @@
     color: darkblue !important;
   }
   
-  /* Media Queries */
+  /* Media Queries (max-width: 500p) */
   @media screen and (max-width: 500px) {
     .container {
       /* Container (Mobile) */
@@ -315,7 +315,7 @@
     }
   }
   
-  /* Media Queries */
+  /* Media Queries (max-width: 600px) */
   @media only screen and (max-width: 600px) {
     .recp-title {
       /* Recipe Title (Mobile) */
@@ -357,7 +357,7 @@
       padding: 10px;
     }
   }
-  
+  /* Media Queries min-width: 601px) and (max-width: 900px) */
   @media only screen and (min-width: 601px) and (max-width: 900px) {
     .recp-title {
       /* Recipe Title (Tablet) */
@@ -372,7 +372,7 @@
       width: 150px;
     }
   }
-  
+  /* Media Queries min-width:901px) */
   @media only screen and (min-width: 901px) {
     .recipe-card {
       /* Recipe Card (Desktop) */
