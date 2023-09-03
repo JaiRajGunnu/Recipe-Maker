@@ -34,4 +34,4 @@ function clearSearchInput() {
   function fetchRecipes() {
     let userInp = userInput.value;
     if (userInp.length == 0) {
-      result.innerHTML = 
+      result.innerHTML = `<h3 style="color:red; margin:10px 5px; font-size:120%; ">Please enter an ingredient.</h3>`;}
