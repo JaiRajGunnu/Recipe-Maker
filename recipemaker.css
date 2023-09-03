@@ -129,17 +129,7 @@
   margin-top:35px;
  }
   
- #cancel-btn {
-  right: 25px;
-  color: red;
-  cursor: pointer;
-  display: none;
-  font-family: FontAwesome;
-  font-size: 16px;
-  margin-top: 15px;
-  opacity: 0.8;
-  position: absolute;
-  }
+
   
 
  #result {
