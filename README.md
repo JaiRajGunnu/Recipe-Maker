@@ -17,14 +17,21 @@
  <br>
 <h3>Links:</h3>
 
-⚡ It benefits from **Responsive design** on average.
-😍 Its appearance is **Clean UI**.
-📂 It fetches data with **API**.
-🍕 You can use any type of **Food data API**.
-🕙 It takes me a duration of **3-4 days** on average.
-🌱 I'm **currently working** on other projects.
-👯 I'm looking to collaborate on **Front-end projects**.
-💬 Please feel free to **ask any questions** you have in mind.
+- ⚡ It benefits from **Responsive design** on average.
+
+- 😍 Its appearance is **Clean UI**.
+
+- 📂 It fetches data with **API**.
+
+- 🍕 You can use any type of **Food data API**.
+
+- 🕙 It takes me a duration of **3-4 days** on average.
+
+- 🌱 I'm **currently working** on other projects.
+
+- 👯 I'm looking to collaborate on **Front-end projects**.
+
+- 💬 Please feel free to **ask any questions** you have in mind.
 
 - 📫 Feel free to reach out to me **[(Social)](#connect-with-me)**.
 
