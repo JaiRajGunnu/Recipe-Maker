@@ -141,20 +141,6 @@
   position: absolute;
   }
   
-  ul {
-  font-size: 1em;
-  position: relative;
-  gap: 0.8em 1.1em;
-  color: #303040;
-  text-transform: capitalize;
-}
-  
-h3 {
-  margin-top: 1.8em;
-  color: #202030;
-}
-  
-  
   
 @media screen and (max-width: 500px) {
   .container {
