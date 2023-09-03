@@ -104,13 +104,7 @@
   font-size: 1em;
   font-weight: 400;
 }
- pre {
-  white-space: pre-wrap;
-  word-wrap: break-word;
-/*  padding: 2.5em 1.2em 1.2em 1.2em; */
-  font-size: 0.92em;
-  color: #303040;
-}
+
 #hide-recipe {
   font-size: 1em;
   position: relative;
