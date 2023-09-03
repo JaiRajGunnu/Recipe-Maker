@@ -86,3 +86,13 @@ function clearSearchInput() {
       .then((response) => response.json())
       .then((recipeData) => {
         let recipe = recipeData[0];
+        result.innerHTML = `
+          <div class="recipe-details">
+            <h1>${recipe.label}</h1>
+            <center>
+              <img class="recp-img" src="${recipe.image}" alt="${recipe.label}"  style="width:300px; box-shadow: 6px 7px 4px rgb(0 0 0 / 40%);">
+            </center>
+            <p style="margin:5px 0;"> <i class="fa-solid fa-arrow-right" style="margin-right:7px; font-size:14px;"></i> Source: ${recipe.source}</p>
+            <p style="margin:5px 0;"> <i class="fa-solid fa-arrow-right" style="margin-right:7px; font-size:14px;"></i> Servings: ${recipe.yield}</p>
+            <b><h3 style="text-align: left; margin-top:15px;">Ingredients</h3></b>
+            <ul>
