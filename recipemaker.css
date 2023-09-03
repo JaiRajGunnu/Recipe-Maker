@@ -17,7 +17,7 @@
   /* Recipe Title Styles */
   .recp-title {
     /* Title Text */
-    color: white !important;
+    color: white ;
     font-family: lemon;
     line-height: 1.5;
     margin: 30px 0;
@@ -226,7 +226,7 @@
   .recipe-info {
     /* Recipe Info */
     flex-grow: 1;
-    color: black !important;
+    color: black ;
     margin-left: 15px;
   }
   
@@ -235,7 +235,7 @@
   .recipe-info p {
     /* Recipe Info Text */
     margin-top: 0;
-    color: black !important;
+    color: black ;
     margin: 5px 10px;
   }
   
@@ -306,6 +306,6 @@
   
   .recp-url a {
     /* Recipe URL Link */
-    color: darkblue !important;
+    color: darkblue ;
   }
   
