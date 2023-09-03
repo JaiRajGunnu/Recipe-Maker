@@ -6,6 +6,7 @@
 <br>
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmIJI5Ejxm-IFBP2XeZqTVhEPIqTogEUGBRc968Swap5NZHQNBCUXSNiOhId0JeSAR793gOqBXB8LLy79q1zKfvv_XUT8HCfYReLWdTeKp40jNv6bP70C_7zxJgL0sw6ngvD-4tWUcccJsneKGlr9enc9WLGW1rajzGF4YxOrOAofZkn3GlLz87yfCmmPB/s16000/Screenshot%20(227).png' width='100%'>
 
+<p align='center'>An sample screenshot</p>
 
 - ⚡ It benfits with  **Responsive design** on average.
 
