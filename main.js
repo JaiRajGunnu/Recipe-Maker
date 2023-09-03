@@ -77,3 +77,12 @@ function clearSearchInput() {
         });
     }
   }
+
+  function fetchRecipeDetails(recipeUri) {
+    let encodedUri = encodeURIComponent(recipeUri);
+    fetch(
+      `https://api.edamam.com/search?r=${encodedUri}&app_id=${appId}&app_key=${appKey}`
+    )
+      .then((response) => response.json())
+      .then((recipeData) => {
+        let recipe = recipeData[0];
