@@ -8,7 +8,12 @@
 <p align='center'>An sample refrence screenshot.</p>
 
 <br>
+<h3>Links:</h3>
 
+ - **[(Social)](#connect-with-me)**.
+ - **[(Social)](#connect-with-me)**.
+
+ <br>
 - ⚡ It benfits with  **Responsive design** on average.
 
 - 😍 It's appreance is with **Clean UI**.
