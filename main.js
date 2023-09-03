@@ -96,3 +96,12 @@ function clearSearchInput() {
             <p style="margin:5px 0;"> <i class="fa-solid fa-arrow-right" style="margin-right:7px; font-size:14px;"></i> Servings: ${recipe.yield}</p>
             <b><h3 style="text-align: left; margin-top:15px;">Ingredients</h3></b>
             <ul>
+            ${recipe.ingredients.map((ingredient) => `<li>${ingredient.text}</li>`).join("")}
+            </ul>
+            <b><h3 style="text-align: left; margin-top:15px;">Instructions</h3></b>
+            <p class="recp-url"><a href="${recipe.url}" target="_blank">${recipe.url}  <i class="fa-solid fa-arrow-up-right-from-square" style="margin-left:04px; font-size:14px;"></i></a> </p>
+            <p style="opacity:85%; color:black; font-size:14px;margin:5px 0;"> <i> ( Follow the link for detailed and complete instructions. ) </i></p>
+            <button id="go-back-btn"><i class="fa-sharp fa-solid fa-chevron-left" style="margin-right:7px;"></i>Back</button>
+          </div>
+        `;
+
