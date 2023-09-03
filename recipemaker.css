@@ -35,7 +35,6 @@
     margin: 10px 0;
   }
   
-  
   /* Container Styles */
   .container {
     /* Container Background */
@@ -54,12 +53,17 @@
     gap: 1.2em;
   }
   
-  .search-container input {
-    /* Search Input */
+  .search-container input,
+  .search-container button {
+    /* Search Input and Button */
     font-size: 1em;
     padding: 10px;
     border: none;
     outline: none;
+  }
+  
+  .search-container input {
+    /* Search Input */
     border-bottom: 2px solid #202030;
     margin-left: 35px;
     width: auto;
@@ -67,10 +71,8 @@
   
   .search-container button {
     /* Search Button */
-    font-size: 1em;
     color: #fff;
     background-color: black;
-    border: none;
     font-weight: 600;
     border-radius: 10px;
     padding: 10px 20px;
@@ -305,94 +307,5 @@
   .recp-url a {
     /* Recipe URL Link */
     color: darkblue !important;
-  }
-  
-  /* Media Queries (max-width: 500p) */
-  @media screen and (max-width: 500px) {
-    .container {
-      /* Container (Mobile) */
-      font-size: 14px;
-    }
-  }
-  
-  /* Media Queries (max-width: 600px) */
-  @media only screen and (max-width: 600px) {
-    .recp-title {
-      /* Recipe Title (Mobile) */
-      font-size: 21px;
-      scale: 1.1;
-    }
-    .recp-img {
-      /* Recipe Image (Mobile) */
-      width: 100px;
-    }
-    .recipe-card {
-      /* Recipe Card (Mobile) */
-      padding: 10px;
-      scale: 0.93;
-    }
-    #cancel-btn {
-      /* Cancel Button (Mobile) */
-      right: 25px;
-    }
-    .search-container i.fa-solid.fa-utensils {
-      /* Utensils Icon (Mobile) */
-      display: none;
-    }
-    .container {
-      /* Container (Mobile) */
-      padding: 15px 07px;
-      border-radius: 30px;
-    }
-    .search-container {
-      /* Search Container (Mobile) */
-      grid-template-columns: 1fr;
-    }
-    .search-container input {
-      /* Search Input (Mobile) */
-      margin: 10px 0;
-    }
-    .search-container button {
-      /* Search Button (Mobile) */
-      padding: 10px;
-    }
-  }
-  /* Media Queries min-width: 601px) and (max-width: 900px) */
-  @media only screen and (min-width: 601px) and (max-width: 900px) {
-    .recp-title {
-      /* Recipe Title (Tablet) */
-      font-size: 30px;
-    }
-    #cancel-btn {
-      /* Cancel Button (Tablet) */
-      right: 225px !important;
-    }
-    .recp-img {
-      /* Recipe Image (Tablet) */
-      width: 150px;
-    }
-  }
-  /* Media Queries min-width:901px) */
-  @media only screen and (min-width: 901px) {
-    .recipe-card {
-      /* Recipe Card (Desktop) */
-      padding: 0 25px;
-    }
-    .recp-title {
-      /* Recipe Title (Desktop) */
-      font-size: 60px;
-    }
-    #cancel-btn {
-      /* Cancel Button (Desktop) */
-      right: 340px !important;
-    }
-    .recp-img {
-      /* Recipe Image (Desktop) */
-      width: 150px;
-    }
-    .container {
-      /* Container (Desktop) */
-      border-radius: 45px;
-    }
   }
   
