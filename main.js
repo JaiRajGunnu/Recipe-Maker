@@ -34,4 +34,8 @@ function clearSearchInput() {
   function fetchRecipes() {
     let userInp = userInput.value;
     if (userInp.length == 0) {
-      result.innerHTML = `<h3 style="color:red; margin:10px 5px; font-size:120%; ">Please enter an ingredient.</h3>`;}
+      result.innerHTML = `<h3 style="color:red; margin:10px 5px; font-size:120%; ">Please enter an ingredient.</h3>`;
+    } else {
+      fetch(
+        `https://api.edamam.com/search?q=${userInp}&app_id=${appId}&app_key=${appKey}`
+      )      
