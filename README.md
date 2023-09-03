@@ -33,7 +33,7 @@
 
 - 📄 Explore the vast range of **[my skills](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)**.
 
-<br>
+
 <div align="left">
 <h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/jairajgunnu" target="blank">
@@ -49,7 +49,7 @@
 <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIRfYXLv3e6__9J-4m5gn_EbSTgGrfNdSslQYhnQOxRT_aOYFkDGQEejWTcHS5orptcNzKH6cA1t28YsBgCgQ8dRGbX3nxZKPhwuT6eclNFl3zJOykbmO2-vVlg_HFj9Z9lRgLFdiBOuKnCFzTLXxvg-eY8Y_JShBIIOIMdXrwpYBQsgGs8HaSqv6YUzMn/s1600/icons8-x-50%20(1).png" alt="jairajgunnu" height="28" width="28" />
 </a>
 </div>
-<br>
+
 <div align="left">
 <h3>Languages and Tools Used:</h3>
 <img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>
