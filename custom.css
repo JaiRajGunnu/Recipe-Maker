@@ -27,9 +27,7 @@
   }
   
   /* Header Styles */
-  .recipe-details h1,
-  .recipe-details h2,
-  .recipe-details h3 {
+  .recipe-details h1, .recipe-details h2, .recipe-details h3 {
     /* Header Text */
     color: black;
     margin: 10px 0;
