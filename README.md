@@ -9,9 +9,9 @@
 
 - ⚡ It benfits with  **Responsive design** on average.
 
-- 🔭 It's appreance is with ' **Clean UI**.
+- 🔭 It's appreance is with **Clean UI**.
 
-- 🔭 It fetches data with  ' **API**.
+- 🔭 It fetches data with  **API**.
 
 - 🔭 You can use any type of food data API  ' **API**.
 
