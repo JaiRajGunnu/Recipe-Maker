@@ -8,6 +8,7 @@
 <p align='center'>An sample refrence screenshot.</p>
 
 <br>
+
 - ⚡ It benfits with  **Responsive design** on average.
 
 - 🔭 It's appreance is with **Clean UI**.
