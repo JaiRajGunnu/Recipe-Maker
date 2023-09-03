@@ -35,13 +35,6 @@
     margin: 10px 0;
   }
   
-  /* Night Mode Header Styles */
-  .Night h1,
-  .Night h2,
-  .Night h3 {
-    /* Header Text (Night Mode) */
-    color: black;
-  }
   
   /* Container Styles */
   .container {
