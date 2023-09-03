@@ -3,16 +3,15 @@
 <h1 align="center">Hi 👋, This is Jai Raj Gunnu</h1>
 <h3 align="center"><i>I created a recipe maker that helps users generate delicious and personalized recipes based on user's preferences with a responsive clean UI, which supports to every device.
 </i></h3></h3>
-<br><br>
-<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmIJI5Ejxm-IFBP2XeZqTVhEPIqTogEUGBRc968Swap5NZHQNBCUXSNiOhId0JeSAR793gOqBXB8LLy79q1zKfvv_XUT8HCfYReLWdTeKp40jNv6bP70C_7zxJgL0sw6ngvD-4tWUcccJsneKGlr9enc9WLGW1rajzGF4YxOrOAofZkn3GlLz87yfCmmPB/s16000/Screenshot%20(227).png' width='100%'>
-<p align='center'>An sample refrence screenshot.</p>
-
 <br>
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmIJI5Ejxm-IFBP2XeZqTVhEPIqTogEUGBRc968Swap5NZHQNBCUXSNiOhId0JeSAR793gOqBXB8LLy79q1zKfvv_XUT8HCfYReLWdTeKp40jNv6bP70C_7zxJgL0sw6ngvD-4tWUcccJsneKGlr9enc9WLGW1rajzGF4YxOrOAofZkn3GlLz87yfCmmPB/s16000/Screenshot%20(227).png' width='100%'>
+<i align='center'>An sample refrence screenshot.</i>
+
 <h3>Links:</h3>
 
    🔻 **[View Figma UI/UX Prototype](https://www.figma.com/proto/50Wn9i5l0cD0oC63e0Sssl/Sadguru-Sai---Mobile?type=design&t=iw5h21hZsQYsxM6h-1&scaling=scale-down&page-id=0%3A1&node-id=37-247&mode=design)**
 
-  🔻 **[Check Live Webpage](https://sadgurusai-tel.blogspot.com/)**
+  🔻 **[Check Live Web Page ](https://sadgurusai-tel.blogspot.com/)**
 
 <h3>Triggers:</h3>
 
@@ -65,4 +64,5 @@
 <img src="https://img.icons8.com/?size=512&id=21895&format=png" alt="API" width="30" height="30"/>  
 <img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/> 
 </div>
-
+<br>
+<i align='center'>Thank You!!</i>
