@@ -20,3 +20,11 @@
 -  💬 Please feel free to ask **any questions** you have in mind.
 
 - 📫 Feel free to reach out to me **[(Social)](#connect-with-me)**.
+
+- 👨‍💻 Have a look at my **[portfolio](https://jairaj-portfolio.blogspot.com/)**.
+
+- 🌐 Have a look at my **[blog](http://epgsk.blogspot.com/)**.
+
+- 📄 Explore the vast range of **[my skills](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)**.
+<br>
+
