@@ -14,8 +14,7 @@
 
   🔻 **[Check Live Webpage](https://sadgurusai-tel.blogspot.com/)**
 
- <br>
-<h3>Links:</h3>
+<h3>Triggers:</h3>
 
 - ⚡ It benefits from **Responsive design** on average.
 
