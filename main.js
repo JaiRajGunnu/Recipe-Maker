@@ -105,3 +105,7 @@ function clearSearchInput() {
           </div>
         `;
 
+
+        let goBackBtn = document.getElementById("go-back-btn");
+        goBackBtn.addEventListener("click", fetchRecipes);
+      })
