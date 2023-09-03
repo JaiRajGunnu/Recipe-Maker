@@ -11,7 +11,7 @@
 
    🔻 **[View Figma UI/UX Prototype](https://www.figma.com/proto/1YDB3VqxM7c3tLWVgNW0jQ/Recipe-Maker?type=design&node-id=1-4&t=CzR7FK9eOGZFX5bu-1&scaling=scale-down&page-id=0%3A1&mode=design)**
 
-  🔻 **[Check Live Web Page ](https://sadgurusai-tel.blogspot.com/)**
+  🔻 **[Check Live Web Page ](https://epgsk.blogspot.com/p/receipe.html/)**
 
 <h3>Triggers:</h3>
 
