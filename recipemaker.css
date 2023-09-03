@@ -116,20 +116,7 @@
   left: 90%;
   border-radius: 0.3em;
 }
-  
- #result h5 {
-  text-align:center;
-  color:#000000a6;
-  margin-top:35px;
- }
-  
 
-  
-
- #result {
- margin-top:20px;
-  }
-  
 .recipe-card {
   display: flex;
   align-items: center;
