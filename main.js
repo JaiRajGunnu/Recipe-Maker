@@ -38,4 +38,11 @@ function clearSearchInput() {
     } else {
       fetch(
         `https://api.edamam.com/search?q=${userInp}&app_id=${appId}&app_key=${appKey}`
-      )      
+      )    
+      .then((response) => response.json())
+      .then((data) => {
+        let recipes = data.hits;
+        if (recipes.length === 0) {
+          result.innerHTML = `<h3 style="color:red; margin:10px 5px;font-size:120%;">Sorry, No recipes found.</h3>`;
+        }
+        
