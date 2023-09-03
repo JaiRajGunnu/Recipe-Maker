@@ -11,3 +11,13 @@ userInput.addEventListener("keydown", (event) => {
     fetchRecipes();
   }
 });
+
+userInput.addEventListener("input", toggleCancelBtn);
+
+function toggleCancelBtn() {
+  if (userInput.value.length > 0) {
+    cancelBtn.style.display = "block";
+  } else {
+    cancelBtn.style.display = "none";
+  }
+}
