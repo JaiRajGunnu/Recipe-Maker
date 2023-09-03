@@ -3,9 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Recipe Maker</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet"></link>
 </head>
+
+
 <body>
-    
+  <p class="recp-title">Find the <u class="recp-title">Best Recipe</u> at <br> your fingertips! </p>
+    <div class="container">
+      <div class="search-container">
+        <i class="fa-solid fa-utensils" style="color: black; font-size: 25px; margin-top: 15px; position: absolute;"></i>
+      <input type="text" placeholder="Type the name of the dish here.." id="user-inp"/>
+        <btn id="cancel-btn" style="color: red; cursor: pointer; display: none; font-family: FontAwesome; font-size: 16px; margin-top: 15px; opacity: 0.8; position: absolute; "><i class="fa-solid fa-xmark"></i></btn>
+        <button id="search-btn"> <i class="fa-sharp fa-solid fa-magnifying-glass" style="margin-right: 15px;"></i>Search</button>
+      </div>
+
+      <div id="result">
+          <h5 style="color:#000000a6; margin-top:35px;">Please type in some ingredients to search for the best recipe.</h5>
+      </div>
+    </div>
 </body>
 </html>
