@@ -64,5 +64,4 @@
 <img src="https://img.icons8.com/?size=512&id=21895&format=png" alt="API" width="30" height="30"/>  
 <img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/> 
 </div>
-<br>
-<p align="center"><p>Thank You!</i></p>
+<p align="right"><p>Thank You!</i></p>
