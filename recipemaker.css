@@ -65,22 +65,8 @@
   margin-right: 10px;
 }
 
-.search-container button span {
-  display: inline-block;
-  vertical-align: middle;
-}
-  
- .fa-solid.fa-utensils {
-  color: black;
-  font-size: 25px;
-  margin-top: 15px;
-  position: absolute;
-  }
-  
- .fa-sharp.fa-solid.fa-magnifying-glass { margin-right: 15px; }
-  
+
 .details {
-  background-color: #43434317;
   position: relative;
   margin: -4.3em 0 0 0;
   text-align: center;
