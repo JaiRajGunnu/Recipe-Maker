@@ -59,4 +59,21 @@ function clearSearchInput() {
                 </div>
               `;
             })
-      
+            .join("");
+
+            result.innerHTML = recipeCards;
+
+            let viewRecipeBtns = document.getElementsByClassName("view-recipe-btn");
+            Array.from(viewRecipeBtns).forEach((btn) => {
+              btn.addEventListener("click", () => {
+                let recipeUri = btn.dataset.uri;
+                fetchRecipeDetails(recipeUri);
+              });
+            });
+          }
+        })
+        .catch(() => {
+          result.innerHTML = `<h3>Error occurred while fetching recipes</h3>`;
+        });
+    }
+  }
