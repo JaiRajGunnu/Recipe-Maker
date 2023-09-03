@@ -21,3 +21,5 @@ function toggleCancelBtn() {
     cancelBtn.style.display = "none";
   }
 }
+
+cancelBtn.addEventListener("click", clearSearchInput);
