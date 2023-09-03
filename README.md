@@ -11,6 +11,10 @@
 
 - 🔭 It's appreance is with ' **Clean UI**.
 
+- 🔭 It fetches data with  ' **API**.
+
+- 🔭 You can use any type of food data API  ' **API**.
+
 - 🔭 It took me duration of  **3-4 days** on average.
 
 - 🌱 I’m currently working on **other projects.**
